@@ -1,6 +1,9 @@
 # Minecraft-Colab-Github
 
+This uses Google Colab as the server to host minecraft. And game files are saved in GitHub instead of Google Drive.
+
 Get started with:
+
 [![Open Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/Labnann/Minecraft-Colab-Github/blob/main/minecraft-colab.ipynb)
 
 # Instructions:
@@ -44,11 +47,12 @@ github_repo="Labnann/LabnannMinecraft"
 ```
 
 Click on run button  for the first two cells sequentially. You should see the server running. 
-Ouput from the first cell will also tell you the ip address for connection. Like this:
+Ouput from the first cell will also tell you the IP address for connection. Like this:
 ```
 tcp.ngrok.io:13345
 ```
-Use the ip address to connect to the game.
+Share this IP address to your friends. Connect to the game with it.
 
 
 Feel free to open an issue if it is hard to understand. Contributions are welcome.
+
